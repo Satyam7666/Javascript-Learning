@@ -28,5 +28,31 @@ let booleanLogedIn=Boolean(isLOggedin);
 let someNumber=34;
 
 let isString=String(someNumber);
-console.log(someNumber);
-console.log(typeof isString);
+//console.log(someNumber);
+//console.log(typeof isString);
+
+
+
+//   **********************************Conversion *********************************** 
+
+let value =3;
+let ngValie=-value;
+//console.log(ngValie);
+
+//console.log(2 + 2);
+
+
+// console.log(2 + "2"); //22
+// console.log(2 + 4 + "4");  //64
+// console.log("4" + 3 +1)   //431
+
+console.log((2 + 3) * 5 /7)   // goog practice
+
+
+// let a=5;
+// console.log(a++);
+// console.log(a)
+
+let a=5;
+console.log(++a);
+console.log(a)
